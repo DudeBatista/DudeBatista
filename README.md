@@ -1,10 +1,11 @@
-### <h1> Bem vindo, sou a Erin!❤️ </h1>
+<p align="center">
+### <p><h1> Bem vindo, sou a Erin!❤️ </h1></p>
 
 .        🌕  *    .     🌍    *      *    . ☄️
     •    *     •   .     .    .  🪐      .      *    ✨ *   💫      *    .       •    *   .      .         ★   .    *  .  ☀️ •    *     ☆.   🪐    .•
     .         ★   .    *  .  ☀️ •    *     ☆.   🪐    .•
 
-<p align="center"><br><br><br>
+<br><br><br>
   <img height="180cm" src ="https://github-readme-stats.vercel.app/api?username=DudeBatista&show_icons=true&theme=onedark">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letyresina&layout=compact&langs_count=16&theme=onedark"/>
 
