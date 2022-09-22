@@ -9,7 +9,7 @@
   <img height="180cm" src ="https://github-readme-stats.vercel.app/api?username=DudeBatista&show_icons=true&theme=onedark">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letyresina&layout=compact&langs_count=16&theme=onedark"/>
 
-  ### **Follow me ⤵**
+  ### **Follow me**
   
 <div> 
   <a href="https://instagram.com/lithitwo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
