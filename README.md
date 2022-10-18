@@ -17,7 +17,6 @@
   <img align="center" alt="Erin-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img src="img/Erin-pic.png " align="right" alt="Erin-pic" height="150" style="border-radius:50px;">
 </div>
-
   ### **Follow me:**
   
 <div> 
