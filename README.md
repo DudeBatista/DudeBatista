@@ -5,10 +5,16 @@
     •    *     •   .     .    .  🪐      .      *    ✨ *   💫      *    .       •    *   .      .         ★   .    *  .  ☀️ •    *     ☆.   🪐    .•
     .         ★   .    *  .  ☀️ •    *     ☆.   🪐    .•
 
-<br><br><br>
+<br>
   <img height="180cm" src ="https://github-readme-stats.vercel.app/api?username=DudeBatista&show_icons=true&theme=onedark">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letyresina&layout=compact&langs_count=16&theme=onedark"/>
-
+<br>
+<a href="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white'></a>
+<a href=" https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
+<a href="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+<a href="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
+<a href="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></a>
+<br>
   ### **Follow me:**
   
 <div> 
