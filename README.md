@@ -6,8 +6,8 @@
     .         ★   .    *  .  ☀️ •    *     ☆.   🪐    .•
 
 <br>
-  <img height="180cm" src ="https://github-readme-stats.vercel.app/api?username=DudeBatista&show_icons=true&theme=onedark">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letyresina&layout=compact&langs_count=16&theme=onedark"/>
+  <img height="180cm" src ="[https://github-readme-stats.vercel.app/api?username=DudeBatista&show_icons=true&theme=onedark](https://github-readme-stats.vercel.app/api?username=DudeBatista&show_icons=true&theme=onedark)">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DudeBatista&layout=compact&langs_count=16&theme=onedark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Erin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
